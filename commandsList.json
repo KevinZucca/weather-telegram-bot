@@ -1,0 +1,18 @@
+[
+    {
+        "text": "/gradi",
+        "use": "Ottieni i gradi attuali a Trieste"
+    },
+    {
+        "text": "/vento",
+        "use": "Mostra la velocità attuale del vento"
+    },
+    {
+        "text": "/pioggia",
+        "use": "Verifica la possibilità di precipitazioni odierne"
+    },
+    {
+        "text": "/help",
+        "use": "Mostra l'elenco dei comandi disponibili"
+    }
+]
